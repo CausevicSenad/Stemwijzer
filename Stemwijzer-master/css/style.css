@@ -1,0 +1,38 @@
+body {
+	background: url('../img/background.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.displayNone {
+	display: none !important;
+}
+
+.displayInlineBlock {
+	display: inline-block !important;
+}
+
+.displayBlock {
+	display: block !important;
+}
+
+.statementList {
+	width: 300px;
+	margin: auto;
+	text-align: left;
+	padding-left: 60px;
+}
+
+.partyList {
+	width: 240px;
+	padding-left: 40px;
+	margin: auto;
+	text-align: left;
+}
+
+.resultList {
+	width: 280px;
+	padding-left: 40px;
+	margin: auto;
+	text-align: left;
+}
